@@ -1,0 +1,23 @@
+{
+  "name": "lab2-heewonhan",
+  "version": "1.0.0",
+  "description": "- https://docs.npmjs.com/",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFSU-CSC-667-867/lab2-heewonhan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFSU-CSC-667-867/lab2-heewonhan/issues"
+  },
+  "homepage": "https://github.com/SFSU-CSC-667-867/lab2-heewonhan#readme"
+}
